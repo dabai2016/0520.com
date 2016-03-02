@@ -13,7 +13,7 @@ $(document).ready(function(){
       artist:"Sophie Zelmani",
       mp3:"http://www.scarlettbai.com/music/dreamer.mp3",
       //oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
-      poster: "http://33.media.tumblr.com/0b35eb42176eedbf4a96e52efa760875/tumblr_mxp7a0v3fr1rqx86wo1_500.png"
+      poster: "http://www.scarlettbai.com/images/dreamer.jpg"
     }];
   
   var cssSelector = {
