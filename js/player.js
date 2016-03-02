@@ -5,6 +5,12 @@ $(document).ready(function(){
   var playlist = [{
       title:"Need You Now",
       artist:"Lady Antebellum",
+      mp3:"http://www.scarlettbai.com/music/needyounow.mp3",
+      //oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
+      poster: "http://www.scarlettbai.com/images/needyounow.jpg"
+    },{
+      title:"Need You Now",
+      artist:"Lady Antebellum",
       mp3:"../music/needyounow.mp3",
       //oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
       poster: "http://33.media.tumblr.com/0b35eb42176eedbf4a96e52efa760875/tumblr_mxp7a0v3fr1rqx86wo1_500.png"
